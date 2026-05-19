@@ -23,9 +23,15 @@ The goal was to create a clean, scalable, and practical automation workflow that
 
 
 
-```bash
-https://simplifiq-ai-assessment.vercel.app/
-```
+<p align="center">
+  <a href="https://simplifiq-ai-assessment.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-black?style=for-the-badge&logo=vercel" />
+  </a>
+
+  <a href="https://github.com/Chandrika987/Simplifiq-ai-assessment">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
@@ -250,7 +256,7 @@ A structured text-based PDF generation approach was used for:
 
 ---
 
-# Professional Submission Summary
+# Submission Summary
 
 This project demonstrates a complete AI-powered workflow automation system designed to streamline lead enrichment and personalized outreach.
 
@@ -267,15 +273,4 @@ The implementation prioritizes:
 The solution was designed and deployed as a scalable fullstack application using Next.js, TypeScript, OpenRouter, and Resend.
 
 ---
-
-# Repository
-
-Add your GitHub repository link here:
-
-```bash
-https://github.com/Chandrika987/simplifiq-ai-assessment
-```
-
----
-
 
