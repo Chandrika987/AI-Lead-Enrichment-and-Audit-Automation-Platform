@@ -1,14 +1,5 @@
 # AI Lead Enrichment & Audit Automation Platform
 
-## Live Demo
-
-Add your deployed Vercel URL here:
-
-```bash
-https://your-project.vercel.app
-```
-
----
 
 # Project Overview
 
@@ -26,6 +17,15 @@ When a prospect submits company details through the form, the system:
 * Logs lead data for CRM-style tracking
 
 The goal was to create a clean, scalable, and practical automation workflow that demonstrates problem-solving ability, engineering decisions, and product thinking.
+
+---
+## Live Demo
+
+
+
+```bash
+https://simplifiq-ai-assessment.vercel.app/
+```
 
 ---
 
@@ -61,34 +61,20 @@ The goal was to create a clean, scalable, and practical automation workflow that
 
 # Tech Stack
 
-## Frontend
+| Category | Technologies Used |
+|---|---|
+| Frontend | Next.js 16, React, TypeScript, Tailwind CSS |
+| Backend | Next.js API Routes |
+| AI Integration | OpenRouter API, GPT-based AI Models |
+| Web Scraping | Axios, Cheerio |
+| Email Automation | Resend API |
+| PDF Generation | jsPDF |
+| Icons & UI | Lucide React |
+| Deployment | Vercel |
+| Version Control | Git, GitHub |
+| Styling | Tailwind CSS, Responsive UI Design |
+| APIs Used | OpenRouter API, Resend API |
 
-* Next.js 16
-* React
-* TypeScript
-* Tailwind CSS
-* Lucide React Icons
-
-## Backend
-
-* Next.js API Routes
-* OpenRouter API
-* Resend Email API
-
-## AI & Automation
-
-* OpenRouter
-* GPT-based business analysis
-
-## Utilities
-
-* Axios
-* Cheerio
-* jsPDF
-
-## Deployment
-
-* Vercel
 
 ---
 
@@ -161,7 +147,7 @@ SHEETDB_API_URL=your_sheetdb_url
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/simplifiq-ai-assessment.git
+git clone https://github.com/Chandrika987/simplifiq-ai-assessment.git
 ```
 
 ## Navigate Into Project
@@ -257,13 +243,10 @@ A structured text-based PDF generation approach was used for:
 
 # Screenshots
 
-Add screenshots here:
+<img width="1888" height="1020" alt="image" src="https://github.com/user-attachments/assets/9dc13f7c-5df3-47d6-9d30-a33c85eaac81" />
 
-* Landing Page
-* Generated AI Audit
-* PDF Report
-* Email Delivery
-* Deployment Preview
+<img width="968" height="569" alt="image" src="https://github.com/user-attachments/assets/80e2332b-f676-4318-b5f5-8fd9901c37b1" />
+
 
 ---
 
@@ -290,15 +273,9 @@ The solution was designed and deployed as a scalable fullstack application using
 Add your GitHub repository link here:
 
 ```bash
-https://github.com/yourusername/simplifiq-ai-assessment
+https://github.com/Chandrika987/simplifiq-ai-assessment
 ```
 
 ---
 
-# Live Deployment
 
-Add your Vercel deployment URL here:
-
-```bash
-https://your-project.vercel.app
-```
