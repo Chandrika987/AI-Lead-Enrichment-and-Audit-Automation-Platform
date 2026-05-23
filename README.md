@@ -3,7 +3,7 @@
 
 # Project Overview
 
-This project is an AI-powered lead enrichment and business audit automation platform built as part of the SimplifiQ AI Software Developer Intern Assessment.
+This project is an AI-powered lead enrichment and business audit automation platform 
 
 The platform automates the complete workflow from lead submission to AI-generated business analysis and outreach automation.
 
