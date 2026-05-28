@@ -256,21 +256,6 @@ A structured text-based PDF generation approach was used for:
 
 ---
 
-# Submission Summary
-
-This project demonstrates a complete AI-powered workflow automation system designed to streamline lead enrichment and personalized outreach.
-
-The platform combines website scraping, AI-generated business analysis, PDF reporting, automated email delivery, and workflow orchestration into a single modern application.
-
-The implementation prioritizes:
-
-* Clean architecture
-* Practical automation
-* Maintainable code structure
-* User experience
-* Reliability under real-world constraints
-
-The solution was designed and deployed as a scalable fullstack application using Next.js, TypeScript, OpenRouter, and Resend.
 
 ---
 
