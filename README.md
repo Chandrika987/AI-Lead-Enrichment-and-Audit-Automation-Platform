@@ -1,7 +1,7 @@
 # AI Lead Enrichment & Audit Automation Platform
 
 
-# Project Overview
+
 --------------------------------
 
 This project is an AI-powered lead enrichment and business audit automation platform 
